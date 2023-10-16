@@ -21,7 +21,7 @@ require (
 	github.com/fatih/color v1.15.0
 	github.com/getsops/gopgagent v0.0.0-20170926210634-4d7ea76ff71a
 	github.com/golang/protobuf v1.5.3
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/goware/prefixer v0.0.0-20160118172347-395022866408
 	github.com/hashicorp/go-cleanhttp v0.5.2
